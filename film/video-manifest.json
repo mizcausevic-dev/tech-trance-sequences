@@ -1,0 +1,26 @@
+{
+  "title": "Tech Trance Sequences",
+  "study": "tt01",
+  "bpm": 140,
+  "source_audio": "preview/tech-trance-sequences-simple-synth-preview.mp3",
+  "source_audio_sha256": "69db3adb30f54712c514fc908579a1a296a68272ffbd93b41a898e17aea586c6",
+  "source_midi": "midi/tt01-cold-coil/tt01-cold-coil-combined.mid",
+  "source_midi_sha256": "c07f385caa529c3aa9952abd037597296f1cd9711ff8cb94e90289af8a3e5bbd",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "91dcec15577f65f4d771c1c4e7107d6220f10dcf447e962ba96b1746e6a38600",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "5143f5132a5d0fece3ae1b925fd2a1b2c55f7e5a62d984ce18e301eed681b50f",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "abeeb196bea8b45f636e14ac0652f8f8d1868103a0092614db3ed76f7edb5dde",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

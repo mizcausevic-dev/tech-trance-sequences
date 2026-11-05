@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/tech-trance-sequences-simple-synth-preview.mp3",
+  "preview_sha256": "69db3adb30f54712c514fc908579a1a296a68272ffbd93b41a898e17aea586c6",
+  "source_midi_path": "midi/tt01-cold-coil/tt01-cold-coil-combined.mid",
+  "source_midi_sha256": "c07f385caa529c3aa9952abd037597296f1cd9711ff8cb94e90289af8a3e5bbd",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "tt01",
+    "start_seconds": 0,
+    "end_seconds": 54.857
+  },
+  "measurement": {
+    "sample_peak": 0.121113,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

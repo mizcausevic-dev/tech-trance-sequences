@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+tt01,Cold Coil,pack-local equal-tempered pitch collection,A,140,4/4,480,32,61440,midi/tt01-cold-coil/tt01-cold-coil-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tt02,Amber Pulse,pack-local equal-tempered pitch collection,C,140,4/4,480,32,61440,midi/tt02-amber-pulse/tt02-amber-pulse-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tt03,Machine Turn,pack-local equal-tempered pitch collection,D#,140,4/4,480,32,61440,midi/tt03-machine-turn/tt03-machine-turn-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+tt04,Long Release,pack-local equal-tempered pitch collection,A#,140,4/4,480,32,61440,midi/tt04-long-release/tt04-long-release-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
