@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/tech-trance-sequences-midi.zip",
-      "bytes": 32987,
-      "sha256": "5a6bc89295337715c3e6db8ea19a5f5733e6d9c6149a65abe319f3c7afcd20a5"
+      "bytes": 33974,
+      "sha256": "a5849684f8007357ac4edbc11e24c857bff3fd85df33dd0e6c298bfd2bd9f382"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 9759,
-      "sha256": "b71c3ca9bb46a95c8f0a45ab555f872827423dc1384cbce5177ff5313aa9f887"
+      "bytes": 9949,
+      "sha256": "0c5c0031ae0c27277e4d8bee6c5a5f6dc1398775eaa9c98f853e38b5cbe4816a"
     },
     {
       "path": "midi/tt01-cold-coil/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "f58020e2ba8610e9b4f6ab519f81ad700346c50fd779c892d9ff57451aa88ff0"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1130,
       "sha256": "988e2e6e52beb8f38a580c96584cb4c762d2b50e93697762f5f764dca62fdb37"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4051,
-      "sha256": "e630d238f0f578772763a0e613ef59cdcf31e23a80b6bf228f264da5cea53891"
+      "bytes": 4166,
+      "sha256": "acdf678c451e0620e457969c7c28279f61c71df85384cb667c031ad58d10cf8b"
     },
     {
       "path": "REVISION.md",
